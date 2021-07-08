@@ -1,0 +1,4 @@
+HPE_MMAP    = yes
+HPE_DBG     = yes
+ZHPE        = yes
+ZHPE_PREFIX = /shared/${ME}/${TESTDIR}/bld
